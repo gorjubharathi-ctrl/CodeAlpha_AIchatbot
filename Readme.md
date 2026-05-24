@@ -21,19 +21,29 @@ The chatbot responds to basic questions using rule-based logic.
 ## How to Run
 
 1. Compile the program:
+
 ```bash
+
 javac AIChatbot.java
 
 2.Run the program:
+
 ```Bash
+
 java AIChatbot
 
 Sample Questions
+
 •Hi
+
 •What is your name?
+
 •Tell me about internship
+
 •How are you?
+
 •Bye
 
 Author:
+
 Developed by G.Bharathi for CodeAlpha Internship
